@@ -32,16 +32,16 @@ Bei der Erstellung der Charaktere wird eine Fertigkeit auf
 *ausgezeichnet* (2) gesetzt. Passend zur Vorgeschichte werden drei
 weiteren Fertigkeiten auf *gut* (1) gesetzt.
 
-Die Hexe *Lerizwan* kann vor allem eins: Zaubern. Weil sie den Auftrag
-hat, die alte Stadt der Schattenelfen zu finden, beherrscht sie
-Benehmen, Diplomatie und Gassenwissen.
-
-| Fertigkeit   | Wert |
-|--------------|:----:|
-| Zaubern      |    2 |
-| Benehmen     |    1 |
-| Diplomatie   |    1 |
-| Gassenwissen |    1 |
+> Die Hexe *Lerizwan* kann vor allem eins: Zaubern. Weil sie den Auftrag
+> hat, die alte Stadt der Schattenelfen zu finden, beherrscht sie
+> Benehmen, Diplomatie und Gassenwissen.
+> 
+> | Fertigkeit   | Wert |
+> |--------------|:----:|
+> | Zaubern      |    2 |
+> | Benehmen     |    1 |
+> | Diplomatie   |    1 |
+> | Gassenwissen |    1 |
 
 ## Reserven
 
@@ -70,14 +70,14 @@ passenden Szene entspannen und abschalten. Solche
 *Auffrischungsszenen* bieten sich an, um Charaktere zu entwickeln und
 neue Probleme ins Spiel einzubringen.
 
-Weil *Lerizwan* vor allem Zaubern wird, setzt sie besonders viele
-Punkte auf den Verstand. Physische Fertigkeiten hat sie keine.
-
-| Reserve    | Wert |
-|------------|:----:|
-| Elan       |    1 |
-| Instinkt   |    3 |
-| Scharfsinn |    6 |
+> Weil *Lerizwan* vor allem Zaubern wird, setzt sie besonders viele
+> Punkte auf den Verstand. Physische Fertigkeiten hat sie keine.
+> 
+> | Reserve    | Wert |
+> |------------|:----:|
+> | Elan       |    1 |
+> | Instinkt   |    3 |
+> | Scharfsinn |    6 |
 
 ## Herkunft
 
@@ -108,15 +108,15 @@ Roten Herz	                 Sprache (Zwergisch), Sprache (Ghinor)
 
 ------------------------------------------------------------------------
 
-*Lerizwan* ist eine Schattenelfe und erhält deswegen noch ein paar
-typische Fertigkeiten auf 0 (*normal*). Zaubern kann sie ja schon.
-
-| Fertigkeiten      | Wert |
-|-------------------|:----:|
-| Kämpfen           |    0 |
-| Bildung           |    0 |
-| Sprache (Elfisch) |    0 |
-| Sprache (Ghinor)  |    0 |
+> *Lerizwan* ist eine Schattenelfe und erhält deswegen noch ein paar
+> typische Fertigkeiten auf 0 (*normal*). Zaubern kann sie ja schon.
+> 
+> | Fertigkeiten      | Wert |
+> |-------------------|:----:|
+> | Kämpfen           |    0 |
+> | Bildung           |    0 |
+> | Sprache (Elfisch) |    0 |
+> | Sprache (Ghinor)  |    0 |
 
 ## Verteidigung
 
@@ -138,13 +138,13 @@ Wert 1 und eine andere Fertigkeit den Wert 2 (die dritte beginnt mit
 Wert 0). Passive Fertigkeiten können wie normale Fertigkeiten
 gesteigert werden.
 
-*Lerizwan* ist vor allem stur.
-
-| Reserve  | Wert |
-|----------|:----:|
-| Ausdauer |    0 |
-| Reaktion |    1 |
-| Wille    |    2 |
+> *Lerizwan* ist vor allem stur.
+> 
+> | Reserve  | Wert |
+> |----------|:----:|
+> | Ausdauer |    0 |
+> | Reaktion |    1 |
+> | Wille    |    2 |
 
 ## Gaben
 
@@ -157,7 +157,7 @@ Bei der Erstellung der Charaktere erhält man eine Gabe. Um im
 laufenden Spiel weitere Gaben zu lernen, braucht es meist einen
 willigen Lehrer und ein paar Wochen Zeit.
 
-Lerizwan beginnt das Spiel mit der Gabe der *Verzauberung*.
+> *Lerizwan* beginnt das Spiel mit der Gabe der *Verzauberung*.
 
 Kontakte
 
@@ -242,7 +242,7 @@ Talent (Beschreibung)
 
     Kosten: 1 Punkt aus der entsprechenden Reserve
 
-    Beispiel: Lerizwan wählt Scharfsinn für ihre Gabe der
+    Beispiel: *Lerizwan* wählt Scharfsinn für ihre Gabe der
     Überraschung. Sie trifft auf einen Goblin und vermutet, dass er
     gut Kämpfen kann aber wohl kaum einen starken Willen hat. So nutzt
     sie die Überraschung für ihren Zauber und zwingt den Goblin, sich
@@ -531,8 +531,8 @@ Pfad des Schwurs
 | 5 EP   | Der Schwur bringt dich und deine Freunde in Gefahr |
 | Abkehr | Erfülle oder breche deinen Schwur                  |
 
-Lerizwan ist eine typische, cholerische Schattenelfe und wandelt auf
-dem *Pfad des Zorns*.
+> *Lerizwan* ist eine typische, cholerische Schattenelfe und wandelt
+> auf dem *Pfad des Zorns*.
 
 Die folgenden Pfade sind etwas konfliktträchtiger als die bisherigen
 Pfade. Bevor man einen dieser Pfade wählt, sollte man dies mit der
@@ -628,9 +628,9 @@ kann keine EP mehr erhalten und scheidet somit aus.
 Bei der Erstellung der Charaktere erhält man 25 EP zur freien
 Verwendung.
 
-Lerizwan verwendet 10 ihrer 25 EP für die Gaben der *Illusionen* und
-der *Verwandlung* und sie steigert ihre *Zaubern* Fertigkeit von 2 auf
-3 (*meisterhaft*).
+> *Lerizwan* verwendet 10 ihrer 25 EP für die Gaben der *Illusionen*
+> und der *Verwandlung* und sie steigert ihre *Zaubern* Fertigkeit von
+> 2 auf 3 (*meisterhaft*).
 
 ## Proben
 
@@ -651,9 +651,9 @@ gewertet:
 |        6 | Unfassbar    | Du vollbringst Übermenschliches         |
 |        7 | Transzendent | Deine Tat verändert die Welt nachhaltig |
 
-Lerizwan will in der Bibliothek Hinweise auf eine alte Elfenstadt
-finden. Sie würfelt ![+]![0]![0] und addiert Bildung 0 für ein
-Ergebnis von 1 (*knapp*).
+> *Lerizwan* will in der Bibliothek Hinweise auf eine alte Elfenstadt
+> finden. Sie würfelt ![+]![0]![0] und addiert Bildung 0 für ein
+> Ergebnis von 1 (*knapp*).
 
 ## Bonuswürfel und Strafwürfel
 
@@ -668,25 +668,25 @@ wertet dann die schlechtesten drei Würfel.
 
 Bonus- und Strafwürfel heben sich gegenseitig auf.
 
-Lerizwan muss sich am Hof des Purdell richtig benehmen. Dies will sie
-besonders gut schaffen und gibt einen Punkt *Instinkt* für einen
-Bonuswürfel aus. Sie würfelt ![+]![+]![0]![-], nimmt die drei besten
-Resultate und addiert *Benehmen* 1 für ein Ergebnis von 3
-(*grossartig*).
+> *Lerizwan* muss sich am Hof des Purdell richtig benehmen. Dies will
+> sie besonders gut schaffen und gibt einen Punkt *Instinkt* für einen
+> Bonuswürfel aus. Sie würfelt ![+]![+]![0]![-], nimmt die drei besten
+> Resultate und addiert *Benehmen* 1 für ein Ergebnis von 3
+> (*grossartig*).
 
-Lerizwan versucht die verfahrene Situation zu retten. Sie hat die
-Hyänenmenschen erschlagen, welche im Dienste des Minotaurenkönigs
-stehen. Trotzdem will sie hier als Gast aufgenommen werden. Das gibt
-einen Strafwürfel. Sie würfelt ![+]![+]![0]![-], nimmt die drei
-schlechtesten Resultate und addiert *Diplomatie* 1 für ein Ergebnis
-von 1 (*knapp*).
+> *Lerizwan* versucht die verfahrene Situation zu retten. Sie hat die
+> Hyänenmenschen erschlagen, welche im Dienste des Minotaurenkönigs
+> stehen. Trotzdem will sie hier als Gast aufgenommen werden. Das gibt
+> einen Strafwürfel. Sie würfelt ![+]![+]![0]![-], nimmt die drei
+> schlechtesten Resultate und addiert *Diplomatie* 1 für ein Ergebnis
+> von 1 (*knapp*).
 
-Lerizwan will einen Liebestrank und braucht hierfür die Hilfe des
-Alchimisten Knoob. Lerizwan unterstützt ihn mit ihrer Magie. Sie
-würfelt ![0]![-]![-] und addiert *Zaubern* 3 für ein Ergebnis von 1
-(*knapp*). Knoob wird also einen Bonuswürfel bekommen. Er würfelt
-![+]![0]![0]![0] und addiert *Alchemie* 0 für ein Ergebnis von 1
-(*knapp*).
+> *Lerizwan* will einen Liebestrank und braucht hierfür die Hilfe des
+> Alchimisten Knoob. *Lerizwan* unterstützt ihn mit ihrer Magie. Sie
+> würfelt ![0]![-]![-] und addiert *Zaubern* 3 für ein Ergebnis von 1
+> (*knapp*). Knoob wird also einen Bonuswürfel bekommen. Er würfelt
+> ![+]![0]![0]![0] und addiert *Alchemie* 0 für ein Ergebnis von 1
+> (*knapp*).
 
 ## Unterstützung
 
@@ -716,10 +716,10 @@ Effekte sind vergänglich. Wenn man eine Reserve auffrischt, gehen alle
 dazugehörigen Effekte verloren, außer man zahlt einen Punkt aus der
 Reserve für jeden Effekt, den man bewahren will.
 
-Mit einem Liebestrank versucht Lerizwan nun den Purdell davon zu
-überzeugen, in den Krieg zu ziehen. Der Trank (Effekt 1) gibt ihr
-einen Bonuswürfel. Sie würfelt ![+]![+]![0]![0] und addiert
-*Diplomatie* 1 für ein Ergebnis von 3 (*grossartig*).
+> Mit einem Liebestrank versucht *Lerizwan* nun den Purdell davon zu
+> überzeugen, in den Krieg zu ziehen. Der Trank (Effekt 1) gibt ihr
+> einen Bonuswürfel. Sie würfelt ![+]![+]![0]![0] und addiert
+> *Diplomatie* 1 für ein Ergebnis von 3 (*grossartig*).
 
 ## Konflikte
 
@@ -731,14 +731,14 @@ dem besseren Ergebnis setzt sich durch.
 Befinden sich auf einer Seite mehrere Charaktere, werden – wenn
 möglich – die Regeln zur Unterstützung angewendet.
 
-Im Zorn will Lerizwan sich zu rächen und Goblins in Schweine
-verwandeln. Sie verwendet *Zaubern* 3 gegen drei Goblins, die sich mit
-*Kämpfen* 1 wehren. Lerizwan würfelt ![0]![0]![-] für ein Ergebnis
-von 2. Der erste Goblin hilft dem zweiten Goblin und würfelt
-![+]![0]![-] für ein Ergebnis von 1. Dies gibt einen Bonuswürfel für
-den zweiten Goblin. Dieser würfelt ![0]![-]![-]![-] für ein Ergebnis
-von -2 (*Misserfolg*). Damit ist die ganze Kette fehlgeschlagen und
-Lerizwan gewinnt den Konflikt mit 2 (*gut*).
+> Im Zorn will *Lerizwan* sich zu rächen und Goblins in Schweine
+> verwandeln. Sie verwendet *Zaubern* 3 gegen drei Goblins, die sich
+> mit *Kämpfen* 1 wehren. *Lerizwan* würfelt ![0]![0]![-] für ein
+> Ergebnis von 2. Der erste Goblin hilft dem zweiten Goblin und
+> würfelt ![+]![0]![-] für ein Ergebnis von 1. Dies gibt einen
+> Bonuswürfel für den zweiten Goblin. Dieser würfelt ![0]![-]![-]![-]
+> für ein Ergebnis von -2 (*Misserfolg*). Damit ist die ganze Kette
+> fehlgeschlagen und *Lerizwan* gewinnt den Konflikt mit 2 (*gut*).
 
 ## Erweiterte Konflikte
 
@@ -788,29 +788,30 @@ bestimmt – passend zum ursprünglichen Ziel – was mit dem Verlierer
 geschieht. Wer einen Reservepunkt zahlen muss und keinen mehr hat,
 verliert ebenfalls.
 
-Die Goblins wollen weiter kämpfen! Der erste Goblin versucht, sich in
-eine gute Position zu manövrieren (parallel, für Bonus). Der zweite
-Goblin will dem dritten Goblin helfen (miteinander). Der dritte Goblin
-will angreifen (gegeneinander, für Schaden). Lerizwan erhält in der
-ersten Runde zwei Bonuswürfel und will nicht gegeneinander agieren.
-Sie will parallel agieren. Lerizwan feuert einen Strahl ab (parallel,
-für Schaden). Da ihr die Gabe des Wirbelwindes fehlt, kann sie nicht
-alle gemeinsam angreifen. Der Goblin muss das parallel agieren
-akzeptieren.
-
-Die Goblins verwenden *Kämpfen* 1; Lerizwan verwendet *Zaubern* 3. Der
-erste Goblin würfelt ![-]![0]![0] für ein Ergebnis von 0 und generiert
-keine Bonuswürfel für die nächste Runde. Der zweite Goblin würfelt
-![-]![-]![+] für ein Ergebnis von 0 und generiert keine Bonuswürfel
-für seinen Kollegen. Der dritte Goblin würfelt ![0]![+]![+] für ein
-Ergebnis von 3. Lerizwan erleidet 3 *Elan* Schaden: einen Strafwürfel
-für die nächste Runde. Selber würfelt sie ![-]![0]![+]![+]![+] für ein
-Ergebnis von 6. Der dritte Goblin erleidet einen tödlichen
-*Scharfsinn* Schaden: einen Strafwürfel auf alle Proben und für jede
-Probe einen *Scharfsinn* Reservepunkt!
-
-Der tödlich getroffene Goblin will fliehen. Da Lerizwan sich um die
-beiden anderen Goblins kümmern muss, akzeptiert sie. Nächste Runde!
+> Die Goblins wollen weiter kämpfen! Der erste Goblin versucht, sich
+> in eine gute Position zu manövrieren (parallel, für Bonus). Der
+> zweite Goblin will dem dritten Goblin helfen (miteinander). Der
+> dritte Goblin will angreifen (gegeneinander, für Schaden).
+> *Lerizwan* erhält in der ersten Runde zwei Bonuswürfel und will
+> nicht gegeneinander agieren. Sie will parallel agieren. *Lerizwan*
+> feuert einen Strahl ab (parallel, für Schaden). Da ihr die Gabe des
+> Wirbelwindes fehlt, kann sie nicht alle gemeinsam angreifen. Der
+> Goblin muss das parallel agieren akzeptieren.
+> 
+> Die Goblins verwenden *Kämpfen* 1; *Lerizwan* verwendet *Zaubern* 3.
+> Der erste Goblin würfelt ![-]![0]![0] für ein Ergebnis von 0 und
+> generiert keine Bonuswürfel für die nächste Runde. Der zweite Goblin
+> würfelt ![-]![-]![+] für ein Ergebnis von 0 und generiert keine
+> Bonuswürfel für seinen Kollegen. Der dritte Goblin würfelt
+> ![0]![+]![+] für ein Ergebnis von 3. *Lerizwan* erleidet 3 *Elan*
+> Schaden: einen Strafwürfel für die nächste Runde. Selber würfelt sie
+> ![-]![0]![+]![+]![+] für ein Ergebnis von 6. Der dritte Goblin
+> erleidet einen tödlichen *Scharfsinn* Schaden: einen Strafwürfel auf
+> alle Proben und für jede Probe einen *Scharfsinn* Reservepunkt!
+> 
+> Der tödlich getroffene Goblin will fliehen. Da *Lerizwan* sich um
+> die beiden anderen Goblins kümmern muss, akzeptiert sie. Nächste
+> Runde!
 
 ## Schaden
 
@@ -865,9 +866,9 @@ mal pro Spielabend zu heilen versuchen: Das Würfelergebnis bestimmt
 bis zu welchem Wert der Schaden entfernt werden kann. Etwaig
 verbleibender Schaden kollabiert erst nach einem Kampf.
 
-Lerizwan wurde für 3 Schaden getroffen. Nach dem Kampf "kollabiert"
-der Schaden auf 1 hinunter. Lerizwan will natürlich heilen und
-investiert den einzigen *Elan* Reservepunkt, den sie hat.
+> *Lerizwan* wurde für 3 Schaden getroffen. Nach dem Kampf
+> "kollabiert" der Schaden auf 1 hinunter. *Lerizwan* will natürlich
+> heilen und investiert den einzigen *Elan* Reservepunkt, den sie hat.
 
 [0]: 0.png
 [-]: -.png
