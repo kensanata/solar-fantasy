@@ -1,4 +1,9 @@
-\setkeys{Gin}{height=1em,viewport=0 4 16 19,keepaspectratio}
+---
+title: Solar Fantasy
+author: Alex Schroeder
+license: CC BY 3.0
+language: de
+---
 
 # Solar Fantasy
 
